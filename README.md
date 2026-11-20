@@ -202,4 +202,11 @@ ONNX 图像推理在独立子进程中执行；GPU 初始化、推理失败或�
 - [异常与推理隔离](docs/异常与推理隔离.md) · [混合 DPI 与多屏坐标](docs/混合DPI与多屏坐标.md) · [本地化](docs/本地化.md)
 - [功能规格与路线图](<docs/NimCap Screenshot 功能规格与路线图.md>) · [配图来源](Screenshot/Blog/README.md)
 
+## 反馈与联系
+
+欢迎反馈使用问题和功能建议。请优先通过 [GitHub Issues](https://github.com/nimcap/nimcap-screenshot/issues) 提交，并附上软件版本、Windows 版本、复现步骤和必要截图。涉及隐私的内容请勿公开，可通过邮箱或微信联系。
+
+- 邮箱：[509918688@qq.com](mailto:509918688@qq.com)
+- 微信号：`nimcap`
+
 Copyright 2026 leelongjiang 与 NimCap Screenshot contributors。项目采用 [Apache License 2.0](LICENSE)，第三方组件与模型的许可分别见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
